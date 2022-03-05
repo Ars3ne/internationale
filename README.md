@@ -28,7 +28,7 @@ repositories {
 	maven { url 'https://jitpack.io' }
 }
 dependencies {
-    implementation 'com.github.Ars3ne:aEventos:1.0.0' // Check the latest version on the repo!
+    implementation 'com.github.Ars3ne:internationale:1.0.0' // Check the latest version on the repo!
 }
 ```
 
